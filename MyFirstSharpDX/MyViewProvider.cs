@@ -1,6 +1,6 @@
 ﻿///////////////////////////////////////////////////////////////////////////////
 //
-// Copyright (c) 2012 Rodrigo 'r2d2rigo' Díaz
+// Copyright (c) 2012-2014 Rodrigo 'r2d2rigo' Díaz
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
 // copy of this software and associated documentation files (the "Software"),
